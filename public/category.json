@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Accounting and Finance",
+      "logo": "https://img.icons8.com/3d-fluency/256/accounting.png",
+      "available": "230 Job Available"
+    },
+    {
+      "id": 2,
+      "name": "Creative Design",
+      "logo": "https://img.icons8.com/external-wanicon-two-tone-wanicon/256/external-creative-design-art-and-design-wanicon-two-tone-wanicon.png",
+      "available": "120 Job Available"
+    },
+    {
+      "id": 3,
+      "name": "Marketing & Sales",
+      "logo": "https://img.icons8.com/cute-clipart/256/sale.png",
+      "available": "470 Job Available"
+    },
+    {
+      "id": 4,
+      "name": "Engineering Job",
+      "logo": "https://img.icons8.com/color/256/engineer-skin-type-1.png",
+      "available": "180 Job Available"
+    }
+  ]
+}
